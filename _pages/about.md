@@ -29,15 +29,11 @@ University of Guelph
 
 Contact
 ======
-Madeline Turland
-mgturland@ucdavis.edu
+Madeline Turland<br />
+mgturland@ucdavis.edu<br />
 1-306-280-0319
 
 <address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-
-
-
 Department of Agricultural and Resource Economics<br />
 University of California, Davis<br />
 2116 Social Sciences and Humanities<br />
