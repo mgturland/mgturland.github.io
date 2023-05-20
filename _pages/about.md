@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Madeline Turland"
+excerpt: "Madeline Turland"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,13 +10,17 @@ redirect_from:
 
 I am an applied economist working at the intersection of agricultural and resource economics. 
 
+
+CV
+
 Education
 ======
 Put info about education here
 
+Research
 
-Interests
+Teaching
 ------
-List interests here
 
 
+Contact
