@@ -29,19 +29,19 @@ University of Guelph
 
 Teaching
 ======
-University of Saskatchewan, Sessional Lecturer<br />
+*University of Saskatchewan, Sessional Lecturer<br />*
 Introduction to Agricultural Economics, AREC 272 (Winter 2019)<br />
 
-University of California, Davis, Teaching Assistant<br />
+*University of California, Davis, Teaching Assistant<br />*
 Government Regulation of Business, ARE 146 (Spring 2021, Fall 2021, Fall 2022)<br />
 Natural Resource Economics, ARE 175 (Spring 2022)<br />
 PhD level Time Series Econometrics, ARE 240D (Winter 2022)<br />
 Intermediate Microeconomics: Theory of Production & Consumption, ARE 100A (Fall 2019)<br />
 
-University of Saskatchewan, Teaching Assistant<br />
+*University of Saskatchewan, Teaching Assistant<br />*
 Introduction to Agri Food Economics, AREC 113 (Fall 2016, Winter 2018)<br />
 
-University of Guelph, Teaching Assistant<br />
+*University of Guelph, Teaching Assistant<br />*
 Advanced Microeconomics, ECON 3710 (Winter 2016)<br />
 
 [Teaching Statement](http://academicpages.github.io/files/paper1.pdf)<br />
