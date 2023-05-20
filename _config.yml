@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : " "
 title_separator          : "-"
 name                     : &name "Madeline Turland"
 description              : &description "PhD Candidate in Agricultural and Resource Economics"
