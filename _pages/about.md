@@ -33,8 +33,14 @@ Madeline Turland
 mgturland@ucdavis.edu
 1-306-280-0319
 
-Department of Agricultural and Resource Economics
-University of California, Davis
-2116 Social Sciences and Humanities
-One Shields Ave, Davis
+<address>
+  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+
+
+
+Department of Agricultural and Resource Economics<br />
+University of California, Davis<br />
+2116 Social Sciences and Humanities<br />
+One Shields Ave, Davis<br />
 CA 95616
+ </address>
