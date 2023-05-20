@@ -30,24 +30,28 @@ University of Guelph
 Teaching
 ======
 [Teaching Statement](http://academicpages.github.io/files/paper1.pdf)<br />
+[Teaching Evaluations](http://academicpages.github.io/files/paper1.pdf)<br />
 
 Research 
 ======
+[Sorting on Risk Preferences](http://academicpages.github.io/files/paper1.pdf)<br />
 [Research Statement](http://academicpages.github.io/files/paper1.pdf)<br />
 
 Publications
 ------
 
-Working Papers
-------
+
+
 
 
 Contact
 ======
+<address>
 Madeline Turland<br />
 mgturland@ucdavis.edu<br />
 1-306-280-0319
-
+<address>
+  
 <address>
 Department of Agricultural and Resource Economics<br />
 University of California, Davis<br />
