@@ -27,7 +27,19 @@ University of Saskatchewan
 BA in Food, Agriculture, and Resource Economics, 2016<br />
 University of Guelph
 
+Teaching
+======
+[Teaching Statement](http://academicpages.github.io/files/paper1.pdf)<br />
 
+Research 
+======
+[Research Statement](http://academicpages.github.io/files/paper1.pdf)<br />
+
+Publications
+------
+
+Working Papers
+------
 
 
 Contact
