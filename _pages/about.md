@@ -44,13 +44,13 @@ Introduction to Agri Food Economics, AREC 113 (Fall 2016, Winter 2018)<br />
 *University of Guelph, Teaching Assistant<br />*
 Advanced Microeconomics, ECON 3710 (Winter 2016)<br />
 
-[Teaching Statement](http://mgturland.github.io/files/paper1.pdf)<br />
-[Teaching Evaluations](http://mgturland.github.io/files/paper1.pdf)<br />
+#[Teaching Statement](http://mgturland.github.io/files/paper1.pdf)<br />
+#[Teaching Evaluations](http://mgturland.github.io/files/paper1.pdf)<br />
 
 Research 
 ======
-[Sorting on Risk Preferences](http://mgturland.github.io/files/paper1.pdf)<br />
-[Research Statement](http://mgturland.github.io/files/paper1.pdf)<br />
+#[Sorting on Risk Preferences](http://mgturland.github.io/files/paper1.pdf)<br />
+#[Research Statement](http://mgturland.github.io/files/paper1.pdf)<br />
 
 Publications
 ------
@@ -61,11 +61,11 @@ Publications
 
 Contact
 ======
-<address>
+
 Madeline Turland<br />
 mgturland@ucdavis.edu<br />
 1-306-280-0319
-<address>
+
   
 <address>
 Department of Agricultural and Resource Economics<br />
