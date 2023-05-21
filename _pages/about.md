@@ -13,7 +13,7 @@ I am an applied economist working at the intersection of agricultural and resour
 
 CV
 ======
-[Link](http://academicpages.github.io/files/paper1.pdf)
+[Link](http://mgturland.github.io/files/paper1.pdf)
 
 
 Education
