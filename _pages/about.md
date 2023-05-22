@@ -29,11 +29,14 @@ University of Guelph
 
 Teaching
 ======
+Below is a list of my teaching experience with links to evaluations when available. 
+
 *University of Saskatchewan, Sessional Lecturer<br />*
 Introduction to Agricultural Economics, AREC 272 (Winter 2019)<br />
 
 *University of California, Davis, Teaching Assistant<br />*
 Government Regulation of Business, ARE 146 (Spring 2021, Fall 2021, Fall 2022)<br />
+* [evaluations](http://mgturland.github.io/files/ARE146_1-combined.pdf) (4.6/5)
 Natural Resource Economics, ARE 175 (Spring 2022)<br />
 PhD level Time Series Econometrics, ARE 240D (Winter 2022)<br />
 Intermediate Microeconomics: Theory of Production & Consumption, ARE 100A (Fall 2019)<br />
