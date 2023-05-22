@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+Welcome!
+======
 I am an applied economist working at the intersection of agricultural and resource economics. 
 
 
-CV
-======
-[Link](http://mgturland.github.io/files/paper1.pdf)
+[Link to CV](http://mgturland.github.io/files/paper1.pdf)
 
 
 Education
@@ -46,14 +46,6 @@ Introduction to Agri Food Economics, AREC 113 (Fall 2016, Winter 2018)<br />
 **University of Guelph, Teaching Assistant<br />**
 Advanced Microeconomics, ECON 3710 (Winter 2016)<br />
 
-
-Research 
-======
-[Sorting on Risk Preferences](http://mgturland.github.io/files/paper1.pdf)<br />
-[Research Statement](http://mgturland.github.io/files/paper1.pdf)<br />
-
-Publications
-------
 
 
 
