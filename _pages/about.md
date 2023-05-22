@@ -37,7 +37,7 @@ Introduction to Agricultural Economics, AREC 272 (Winter 2019)<br />
 *University of California, Davis, Teaching Assistant<br />*
 Government Regulation of Business, ARE 146 (Spring 2021, Fall 2021, Fall 2022) [evaluations](http://mgturland.github.io/files/ARE146_1-combined.pdf) (4.6/5)<br />
 Natural Resource Economics, ARE 175 (Spring 2022)<br />
-PhD level Time Series Econometrics, ARE 240D (Winter 2022)<br />
+PhD level Time Series Econometrics, ARE 240D (Winter 2022) [evaluations](http://mgturland.github.io/files/ARE240C.pdf) (4.7/5)<br />
 Intermediate Microeconomics: Theory of Production & Consumption, ARE 100A (Fall 2019)<br />
 
 *University of Saskatchewan, Teaching Assistant<br />*
