@@ -19,31 +19,31 @@ CV
 Education
 ======
 PhD in Agricultural and Resource Economics, 2024 (expected)<br />
-UC Davis
+*UC Davis*
 
 MSc. in Agricultual and Resource Economics, 2018<br />
-University of Saskatchewan
+*University of Saskatchewan*
 
-BA in Food, Agriculture, and Resource Economics, 2016<br />
-University of Guelph
+BA in Food, Agriculture, and Resource Economics (*with distinction*), 2016<br />
+*University of Guelph*
 
 Teaching
 ======
 Below is a list of my teaching experience with links to evaluations when available. 
 
-*University of Saskatchewan, Sessional Lecturer<br />*
+**University of Saskatchewan, Sessional Lecturer<br />**
 Introduction to Agricultural Economics, AREC 272 (Winter 2019)<br />
 
-*University of California, Davis, Teaching Assistant<br />*
+**University of California, Davis, Teaching Assistant<br />**
 Government Regulation of Business, ARE 146 (Spring 2021, Fall 2021, Fall 2022) [(4.9/5)](http://mgturland.github.io/files/ARE146Evals.pdf)<br />
 Natural Resource Economics, ARE 175 (Spring 2022) [(4.7/5)](http://mgturland.github.io/files/ARE175Evals.pdf) <br />
 PhD level Time Series Econometrics, ARE 240D (Winter 2022) [(4.8/5)](http://mgturland.github.io/files/ARE240CEvals.pdf)<br />
 Intermediate Microeconomics: Theory of Production & Consumption, ARE 100A (Fall 2019)  <br />
 
-*University of Saskatchewan, Teaching Assistant<br />*
+**University of Saskatchewan, Teaching Assistant<br />**
 Introduction to Agri Food Economics, AREC 113 (Fall 2016, Winter 2018)<br />
 
-*University of Guelph, Teaching Assistant<br />*
+**University of Guelph, Teaching Assistant<br />**
 Advanced Microeconomics, ECON 3710 (Winter 2016)<br />
 
 [Teaching Statement](http://mgturland.github.io/files/paper1.pdf)<br />
