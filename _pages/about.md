@@ -13,7 +13,7 @@ Welcome!
 I am an applied economist working at the intersection of agricultural and resource economics. 
 
 
-[Link to CV](http://mgturland.github.io/files/paper1.pdf)
+[Link to CV](http://mgturland.github.io/files/Resume May 31 2023.pdf)
 
 
 Education
