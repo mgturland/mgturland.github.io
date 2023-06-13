@@ -13,13 +13,13 @@ Welcome!
 I am an applied economist working at the intersection of agricultural and resource economics. 
 
 
-[Link to CV](http://mgturland.github.io/files/Resume May 31 2023.pdf)
+[Link to CV](http://mgturland.github.io/files/ResumeMay312023.pdf)
 
 
 Education
 ======
-PhD in Agricultural and Resource Economics, 2024 (expected)<br />
-*UC Davis*
+PhD in Agricultural and Resource Economics, 2024 (expected), *UC Davis* <br />
+Committee: Katrina Jessoe, Jens Hilscher, Pierre Mérel
 
 MSc. in Agricultual and Resource Economics, 2018<br />
 *University of Saskatchewan*
