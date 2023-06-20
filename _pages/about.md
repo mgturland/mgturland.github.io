@@ -15,6 +15,21 @@ I am an applied microeconomist working at the intersection of agricultural and r
 [Link to CV](http://mgturland.github.io/files/ResumeMay312023.pdf)
 
 
+
+Working Papers
+======
+"Running from Wildfires: The Role of Risk Preferences in Natural Disaster Sorting" *Job Market Paper*
+
+"Climate Change and the Regulation of a Crashing Insurance Market" *with R. Taylor and J. Weill*
+
+"Agricultural Adaptation to Climate Change: The Role of Water Storage" *with K. Jessoe, J. Hilscher, B. Gafarov, and C. Carter*
+
+
+Publications
+======
+“Farmers’ willingness to participate in a big data platform,” *with P. Slade. Agribusiness, 2019. 36(1):20-36*
+[Link](http://mgturland.github.io/files/Publication1.pdf)
+
 Education
 ======
 PhD in Agricultural and Resource Economics, 2024 (expected), *UC Davis* <br />
