@@ -10,8 +10,7 @@ redirect_from:
 
 Welcome!
 ======
-I am an applied economist working at the intersection of agricultural and resource economics. 
-
+I am an applied microeconomist working at the intersection of agricultural and resource economics. My current research focuses on climate change, insurance markets, and the impacts of water supply variability. 
 
 [Link to CV](http://mgturland.github.io/files/ResumeMay312023.pdf)
 
