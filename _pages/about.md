@@ -20,15 +20,17 @@ Working Papers
 ======
 "Running from Wildfires: The Role of Risk Preferences in Natural Disaster Sorting" *Job Market Paper*
 
-"Climate Change and the Regulation of a Crashing Insurance Market" *with R. Taylor and J. Weill*
+"Climate Change and the Regulation of a Crashing Insurance Market," *with R. Taylor and J. Weill*
 
-"Agricultural Adaptation to Climate Change: The Role of Water Storage" *with K. Jessoe, J. Hilscher, B. Gafarov, and C. Carter*
+"Agricultural Adaptation to Climate Change: The Role of Water Storage," *with K. Jessoe, J. Hilscher, B. Gafarov, and C. Carter*
 
 
 Publications
 ======
-“Farmers’ willingness to participate in a big data platform,” *with P. Slade. Agribusiness, 2019. 36(1):20-36*
-[Link](http://mgturland.github.io/files/Publication1.pdf)
+“[Farmers’ willingness to participate in a big data platform](http://mgturland.github.io/files/Publication1.pdf),” *with P. Slade. Agribusiness, 2019. 36(1):20-36.*
+
+“[Canadian-U.S. Dairy Trade Dispute: A Tempest in a Teapot](http://mgturland.github.io/files/AREUpdate.pdf),” *with C. Carter and R. Barichello. ARE Update, 2023. 26(3):5-8.
+University of California Giannini Foundation of Agricultural Economics.*
 
 Education
 ======
