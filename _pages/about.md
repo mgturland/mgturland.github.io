@@ -39,7 +39,7 @@ Committee: Katrina Jessoe, Jens Hilscher, Pierre Mérel
 
 MSc. in Agricultual and Resource Economics (2018), *University of Saskatchewan*
 
-BA in Food, Agriculture, and Resource Economics (2016, *with distinction*), *University of Guelph*
+BA in Food, Agriculture, and Resource Economics (2016, with distinction), *University of Guelph*
 
 Teaching
 ======
