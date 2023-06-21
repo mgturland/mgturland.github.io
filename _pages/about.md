@@ -34,14 +34,12 @@ University of California Giannini Foundation of Agricultural Economics.*
 
 Education
 ======
-PhD in Agricultural and Resource Economics, 2024 (expected), *UC Davis* <br />
+PhD in Agricultural and Resource Economics (2024, expected), *UC Davis* <br />
 Committee: Katrina Jessoe, Jens Hilscher, Pierre Mérel
 
-MSc. in Agricultual and Resource Economics, 2018<br />
-*University of Saskatchewan*
+MSc. in Agricultual and Resource Economics (2018), *University of Saskatchewan*
 
-BA in Food, Agriculture, and Resource Economics (*with distinction*), 2016<br />
-*University of Guelph*
+BA in Food, Agriculture, and Resource Economics (2016, *with distinction*), *University of Guelph*
 
 Teaching
 ======
