@@ -18,7 +18,7 @@ I am an applied microeconomist working at the intersection of agricultural and r
 
 Working Papers
 ======
-"Running from Wildfires: The Role of Risk Preferences in Natural Disaster Sorting" *Job Market Paper*
+"Running from Wildfires: The Role of Risk Preferences in Natural Disaster Sorting" 
 
 "Climate Change and the Regulation of a Crashing Insurance Market," *with R. Taylor and J. Weill*
 
