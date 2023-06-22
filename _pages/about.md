@@ -29,11 +29,11 @@ Publications
 ======
 “[Farmers’ willingness to participate in a big data platform](http://mgturland.github.io/files/Publication1.pdf),” *with P. Slade. Agribusiness, 2019. 36(1):20-36.*
 
-Other Publications
-------
+**Other Publications**
+
 “[Canadian-U.S. Dairy Trade Dispute: A Tempest in a Teapot](http://mgturland.github.io/files/AREUpdate.pdf),” *with C. Carter and R. Barichello. ARE Update, 2023. 26(3):5-8. University of California Giannini Foundation of Agricultural Economics.*
 
-"[Canada's Supply of Agricultural Land](http://mgturland.github.io/files/AgriculturalLand.pdf)," * with A. Weersink, N. Bannon, and J. Riddle. Working Papers 292272, University of Guelph, Institute for the Advanced Study of Food and Agricultural Policy, 2019.*
+"[Canada's Supply of Agricultural Land](http://mgturland.github.io/files/AgriculturalLand.pdf)," *with A. Weersink, N. Bannon, and J. Riddle. Working Papers 292272, University of Guelph, Institute for the Advanced Study of Food and Agricultural Policy, 2019.*
 
 Education
 ======
