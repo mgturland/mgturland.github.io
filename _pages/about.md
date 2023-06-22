@@ -16,7 +16,7 @@ I am an applied microeconomist working at the intersection of agricultural and r
 
 
 
-Working Papers
+Dissertation Research
 ======
 "Running from Wildfires: The Role of Risk Preferences in Natural Disaster Sorting" 
 
