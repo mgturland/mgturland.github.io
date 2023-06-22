@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Welcome!
 ======
 I am an applied microeconomist working at the intersection of agricultural and resource economics. My current research focuses on climate change, insurance markets, and the impacts of water supply variability. 
@@ -30,7 +31,6 @@ Publications
 “[Farmers’ willingness to participate in a big data platform](http://mgturland.github.io/files/Publication1.pdf),” *with P. Slade. Agribusiness, 2019. 36(1):20-36.*
 
 **Other Publications**
-
   - “[Canadian-U.S. Dairy Trade Dispute: A Tempest in a Teapot](http://mgturland.github.io/files/AREUpdate.pdf),” *with C. Carter and R. Barichello. ARE Update, 2023. 26(3):5-8. University of California Giannini Foundation of Agricultural Economics.*
 
   - "[Canada's Supply of Agricultural Land](http://mgturland.github.io/files/AgriculturalLand.pdf)," *with A. Weersink, N. Bannon, and J. Riddle. Working Papers 292272, University of Guelph, Institute for the Advanced Study of Food and Agricultural Policy, 2019.*
