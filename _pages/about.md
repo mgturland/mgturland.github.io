@@ -11,7 +11,8 @@ redirect_from:
 
 Welcome!
 ======
-I am an applied microeconomist working at the intersection of agricultural and resource economics. My current research focuses on climate change, insurance markets, and the impacts of water supply variability. 
+I am an applied microeconomist working at the intersection of agricultural and resource economics. My current research focuses on climate change, insurance, and the use of markets to manage water resources. 
+
 
 [Link to CV](http://mgturland.github.io/files/MadelineTurlandCV.pdf)
 
