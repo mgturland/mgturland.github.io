@@ -39,7 +39,7 @@ Publications
 Education
 ======
 PhD in Agricultural and Resource Economics (2024, expected), *UC Davis* <br />
-Committee: Katrina Jessoe, Jens Hilscher, Pierre Mérel
+Committee: Katrina Jessoe, Jens Hilscher, Pierre Mérel, Colin Carter
 
 MSc. in Agricultual and Resource Economics (2018), *University of Saskatchewan*
 
