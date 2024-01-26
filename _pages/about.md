@@ -22,11 +22,11 @@ In summer 2024 I will start as an Assistant Professor in the Department of [Reso
 Dissertation Research
 ======
 "Running from Wildfires: The Role of Risk Preferences in Natural Disaster Sorting" <br />
-Winner of 2023 CAES-WAEA Annual Meeting Student Paper Competition
+Winner of 2023 CAES-WAEA Annual Meeting Student Paper Competition <br />
+Winner of best short presentation at 2023 CREEA Annual Meeting
 
 "Climate Change and the Regulation of a Crashing Insurance Market," *with R. Taylor and J. Weill* <br />
-Winner of 2023 CREEA Early Career Researcher Workshop Best Paper and Presentation <br />
-Winner of best short presentation at 2023 CREEA Annual Meeting
+Winner of 2023 CREEA Early Career Researcher Workshop Best Paper and Presentation 
 
 "Agricultural Adaptation to Climate Change: The Role of Water Storage," *with K. Jessoe, J. Hilscher, B. Gafarov, and C. Carter*
 
