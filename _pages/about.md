@@ -10,7 +10,9 @@ redirect_from:
 
 Welcome!
 ======
-I am an applied microeconomist working at the intersection of agricultural and resource economics. My current research focuses on climate change, insurance, and the use of markets to manage water resources. 
+I am an applied microeconomist working at the intersection of environmental and resource economics. My current research focuses on climate change, insurance, and the use of markets to manage water resources. 
+
+In summer 2024 I will start as an Assistant Professor in the Department of [Resource Economics and Environmental Sociology](https://www.ualberta.ca/resource-economics-environmental-sociology/index.html) at the University of Alberta. 
 
 
 [Link to CV](http://mgturland.github.io/files/MT_cv.pdf)
