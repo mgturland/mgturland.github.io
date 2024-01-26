@@ -25,7 +25,8 @@ Dissertation Research
 Winner of 2023 CAES-WAEA Annual Meeting Student Paper Competition
 
 "Climate Change and the Regulation of a Crashing Insurance Market," *with R. Taylor and J. Weill* <br />
-Winner of 2023 CREEA Early Career Researcher Workshop Best Paper and Presentation
+Winner of 2023 CREEA Early Career Researcher Workshop Best Paper and Presentation <br />
+Winner of best short presentation at 2023 CREEA Annual Meeting
 
 "Agricultural Adaptation to Climate Change: The Role of Water Storage," *with K. Jessoe, J. Hilscher, B. Gafarov, and C. Carter*
 
