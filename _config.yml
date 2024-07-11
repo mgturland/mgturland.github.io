@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : " "
 title_separator          : "-"
 name                     : &name "Madeline Turland"
-description              : &description "PhD Candidate in Agricultural and Resource Economics"
+description              : &description "Assistant Professor of Environmental Economics"
 url                      : https://mgturland.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mgturland/mgturland.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Madeline Turland"
   avatar           : "headshot.png"
-  bio              : "PhD Candidate in Agricuture and Resource Economics"
-  location         : "UC Davis"
+  bio              : "Assistant Professor of Resource Economics"
+  location         : "University of Alberta"
   employer         :
   pubmed           : 
   googlescholar    : 
