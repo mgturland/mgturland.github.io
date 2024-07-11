@@ -10,16 +10,22 @@ redirect_from:
 
 Welcome!
 ======
-I am an applied microeconomist working at the intersection of environmental and resource economics. My current research focuses on climate change, insurance, and the use of markets to manage water resources. 
-
-In summer 2024 I will start as an Assistant Professor in the Department of [Resource Economics and Environmental Sociology](https://www.ualberta.ca/resource-economics-environmental-sociology/index.html) at the University of Alberta. 
+I am an assistant professor in the Department of [Resource Economics and Environmental Sociology](https://www.ualberta.ca/resource-economics-environmental-sociology/index.html) at the University of Alberta, where I specialize in environmental and resource economics. My current research focuses on climate change, insurance, and the use of markets to manage water resources. 
 
 
 [Link to CV](http://mgturland.github.io/files/MT_cv.pdf)
 
+Education
+======
+PhD in Agricultural and Resource Economics (2024), *UC Davis* <br />
+Committee: Katrina Jessoe, Jens Hilscher, Pierre Mérel, Colin Carter
+
+MSc. in Agricultual and Resource Economics (2018), *University of Saskatchewan*
+
+BA in Food, Agriculture, and Resource Economics (2016, with distinction), *University of Guelph*
 
 
-Dissertation Research
+Working Papers
 ======
 "Running from Wildfires: The Role of Risk Preferences in Natural Disaster Sorting" <br />
 Winner of 2023 CAES-WAEA Annual Meeting Student Paper Competition <br />
@@ -28,45 +34,20 @@ Winner of best short presentation at 2023 CREEA Annual Meeting
 "Climate Change and the Regulation of a Crashing Insurance Market," *with R. Taylor and J. Weill* <br />
 Winner of 2023 CREEA Early Career Researcher Workshop Best Paper and Presentation 
 
-"Agricultural Adaptation to Climate Change: The Role of Water Storage," *with K. Jessoe, J. Hilscher, B. Gafarov, and C. Carter*
+"Storage Reduces Climate Change Induced Price Volatility in Water Markets," *with K. Jessoe, J. Hilscher, B. Gafarov, and C. Carter*
 
 
 Publications
 ======
 “[Farmers’ willingness to participate in a big data platform](http://mgturland.github.io/files/Publication1.pdf),” *with P. Slade. Agribusiness, 2019. 36(1):20-36.*
 
-**Other Publications**
+
+Outreach
+======
   - “[Canadian-U.S. Dairy Trade Dispute: A Tempest in a Teapot](http://mgturland.github.io/files/AREUpdate.pdf),” *with C. Carter and R. Barichello. ARE Update, 2023. 26(3):5-8. University of California Giannini Foundation of Agricultural Economics.*
 
   - "[Canada's Supply of Agricultural Land](http://mgturland.github.io/files/AgriculturalLand.pdf)," *with A. Weersink, N. Bannon, and J. Riddle. Working Papers 292272, University of Guelph, Institute for the Advanced Study of Food and Agricultural Policy, 2019.*
 
-Education
-======
-PhD in Agricultural and Resource Economics (2024, expected), *UC Davis* <br />
-Committee: Katrina Jessoe, Jens Hilscher, Pierre Mérel, Colin Carter
-
-MSc. in Agricultual and Resource Economics (2018), *University of Saskatchewan*
-
-BA in Food, Agriculture, and Resource Economics (2016, with distinction), *University of Guelph*
-
-Teaching
-======
-Below is a list of my teaching experience with links to evaluations when available. 
-
-**University of Saskatchewan, Sessional Lecturer<br />**
-Introduction to Agricultural Economics, AREC 272 (Winter 2019)<br />
-
-**University of California, Davis, Teaching Assistant<br />**
-Government Regulation of Business, ARE 146 (Spring 2021, Fall 2021, Fall 2022) <br />
-Natural Resource Economics, ARE 175 (Spring 2022)  <br />
-PhD level Time Series Econometrics, ARE 240D (Winter 2022) <br />
-Intermediate Microeconomics: Theory of Production & Consumption, ARE 100A (Fall 2019)  <br />
-
-**University of Saskatchewan, Teaching Assistant<br />**
-Introduction to Agri Food Economics, AREC 113 (Fall 2016, Winter 2018)<br />
-
-**University of Guelph, Teaching Assistant<br />**
-Advanced Microeconomics, ECON 3710 (Winter 2016)<br />
 
 In The News
 ======
@@ -75,16 +56,13 @@ In The News
 
 Contact
 ======
-
 Madeline Turland<br />
-mgturland@ucdavis.edu<br />
+turland@ualberta<br />
 
-
-  
 <address>
-Department of Agricultural and Resource Economics<br />
-University of California, Davis<br />
-2116 Social Sciences and Humanities<br />
-One Shields Ave, Davis<br />
-CA 95616
+Department of Resource Economics and Environmental Sociology<br />
+Faculty of Agricultural, Life and Environmental Sciences<br /> 
+University of Alberta<br />
+General Services Building<br />
+Edmonton, AB Canada T6G 2H1<br />
  </address>
