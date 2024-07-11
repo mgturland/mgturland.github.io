@@ -57,7 +57,7 @@ In The News
 Contact
 ======
 Madeline Turland<br />
-turland@ualberta<br />
+turland@ualberta.ca<br />
 
 <address>
 Department of Resource Economics and Environmental Sociology<br />
